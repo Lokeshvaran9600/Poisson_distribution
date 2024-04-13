@@ -69,6 +69,8 @@ else:
 ```
 
  
+# Developed by: lokeshvaran s
+# Reg No: 212223040105
 
 # Output : 
 ![240573602-66c445f7-50f1-4749-a102-9da761ccabcd](https://github.com/Lokeshvaran9600/Poisson_distribution/assets/145972263/8d9a817a-0721-494d-bb3c-ea98ac7a2e6d)
